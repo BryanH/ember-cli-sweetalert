@@ -1,26 +1,9 @@
 # Ember-cli-sweetalert
 
-This README outlines the details of collaborating on this Ember addon.
+Support Sweetalerts in ember
 
 ## Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+* `npm install ember-cli-sweetalert --save-dev`
+* See [sweetalert](http://t4t5.github.io/sweetalert/) for usage in your application
 
-## Running
-
-* `ember server`
-* Visit your app at http://localhost:4200.
-
-## Running Tests
-
-* `npm test` (Runs `ember try:testall` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
